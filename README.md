@@ -12,3 +12,6 @@ https://docs.python.org/zh-tw/3/library/functions.html#round
 
 ## 2023_10_14_早上
 錄影<https://www.youtube.com/watch?v=YWTf5MMuTlY>
+
+## 2023_10_14_下午
+錄影<https://www.youtube.com/watch?v=ywgZoFSFy6o>
