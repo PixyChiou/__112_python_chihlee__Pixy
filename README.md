@@ -2,4 +2,4 @@
 10_14日_致理_python_大數據探勘
 
 ##上課網頁
-https://meet.google.com/bio-hmps-bpr
+###https://meet.google.com/bio-hmps-bpr
