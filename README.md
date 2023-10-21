@@ -14,7 +14,7 @@ https://docs.python.org/zh-tw/3/library/functions.html#round
 [錄影上午](https://www.youtube.com/watch?v=YWTf5MMuTlY)
 [錄影下午](https://www.youtube.com/watch?v=ywgZoFSFy6o)
 
-# 2023_10_21_上午
+# 2023_10_21
 [錄影1上午](https://www.youtube.com/watch?v=mTQnQarFk0c)
 [錄影2上午](https://www.youtube.com/watch?v=_D8jTDrcVkk)
 [目錄](https://github.com/roberthsu2003/python/tree/master/%E6%A2%9D%E4%BB%B6%E5%88%86%E6%9E%90)
