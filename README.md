@@ -20,3 +20,7 @@ https://docs.python.org/zh-tw/3/library/functions.html#round
 [錄影1](https://www.youtube.com/watch?v=mTQnQarFk0c)
 [錄影2](https://www.youtube.com/watch?v=_D8jTDrcVkk)
 [目錄](https://github.com/roberthsu2003/python/tree/master/%E6%A2%9D%E4%BB%B6%E5%88%86%E6%9E%90)
+
+## 免費的module
+[pypi](https://pypi.org/)
+### 其中的pyinputplus可以安裝,簡化try/excep
