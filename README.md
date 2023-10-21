@@ -18,3 +18,4 @@ https://docs.python.org/zh-tw/3/library/functions.html#round
 
 # 2023_10_21_上午
 [錄影](https://www.youtube.com/watch?v=mTQnQarFk0c)
+[目錄](https://github.com/roberthsu2003/python/tree/master/%E6%A2%9D%E4%BB%B6%E5%88%86%E6%9E%90)
