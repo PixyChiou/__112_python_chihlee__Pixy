@@ -26,3 +26,5 @@ https://docs.python.org/zh-tw/3/library/functions.html#round
 ## 免費的module  其中的pyinputplus可以安裝,簡化try/excep
 [pypi](https://pypi.org/)
 [Python自動化指南pyinputplus說明](https://cloud.tencent.com/developer/article/2257365)
+
+# [docker desktop](https://www.docker.com/products/docker-desktop/) 在自己電腦建立linux,就不用在雲端上使用
