@@ -17,8 +17,11 @@ https://docs.python.org/zh-tw/3/library/functions.html#round
 # 2023_10_21
 [錄影1上午](https://www.youtube.com/watch?v=mTQnQarFk0c)
 [錄影2上午](https://www.youtube.com/watch?v=_D8jTDrcVkk)
-[目錄](https://github.com/roberthsu2003/python/tree/master/%E6%A2%9D%E4%BB%B6%E5%88%86%E6%9E%90)
 [錄影3下午](https://www.youtube.com/watch?v=xilBp4OW_S4)
+[目錄](https://github.com/roberthsu2003/python/tree/master/%E6%A2%9D%E4%BB%B6%E5%88%86%E6%9E%90)
+
+# 2023_10_28
+[錄影1上午](https://www.youtube.com/watch?v=OmaI3Lk14xs)
 
 ## 免費的module  其中的pyinputplus可以安裝,簡化try/excep
 [pypi](https://pypi.org/)
