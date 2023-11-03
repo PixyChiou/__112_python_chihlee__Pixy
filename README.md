@@ -30,3 +30,5 @@ https://docs.python.org/zh-tw/3/library/functions.html#round
 [Python自動化指南pyinputplus說明](https://cloud.tencent.com/developer/article/2257365)
 
 ## [docker desktop](https://www.docker.com/products/docker-desktop/) 在自己電腦建立linux,就不用在雲端上使用
+
+##[steam學習網](https://steam.oxxostudio.tw/category/python/basic/loop.html)
