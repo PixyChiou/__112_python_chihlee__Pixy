@@ -10,7 +10,7 @@ https://meet.google.com/bio-hmps-bpr
 ## 2023_10_21
 [錄影1上午](https://www.youtube.com/watch?v=mTQnQarFk0c)
 [錄影2上午](https://www.youtube.com/watch?v=_D8jTDrcVkk)
-[錄影3下午](https://www.youtube.com/watch?v=xilBp4OW_S4)***
+[錄影3下午](https://www.youtube.com/watch?v=xilBp4OW_S4)  
 [目錄](https://github.com/roberthsu2003/python/tree/master/%E6%A2%9D%E4%BB%B6%E5%88%86%E6%9E%90)
 
 ## 2023_10_28
@@ -19,8 +19,8 @@ https://meet.google.com/bio-hmps-bpr
 [for自訂的變數in sequence](https://docs.python.org/zh-tw/3/library/stdtypes.html#range)
 
 ## 2023_11_4
-[錄影1上午](https://www.youtube.com/watch?v=FNED5Xou-HU)
-[物件和類別](https://github.com/roberthsu2003/python/tree/master/%E7%89%A9%E4%BB%B6%E5%92%8C%E9%A1%9E%E5%88%A5)
+[錄影1上午](https://www.youtube.com/watch?v=FNED5Xou-HU)  
+[物件和類別](https://github.com/roberthsu2003/python/tree/master/%E7%89%A9%E4%BB%B6%E5%92%8C%E9%A1%9E%E5%88%A5)  
 [錄影1下午](https://www.youtube.com/watch?v=6bIXI2lhDu0)
 
 ### 免費的module  其中的pyinputplus可以安裝,簡化try/excep
