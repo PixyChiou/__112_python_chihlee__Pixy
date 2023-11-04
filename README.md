@@ -25,6 +25,9 @@ https://docs.python.org/zh-tw/3/library/functions.html#round
 [錄影2下午](https://www.youtube.com/watch?v=bPO4ogiVKmE)
 [for自訂的變數in sequence](https://docs.python.org/zh-tw/3/library/stdtypes.html#range)
 
+# 2023_11_4
+[錄影1上午](https://www.youtube.com/watch?v=FNED5Xou-HU)
+
 ## 免費的module  其中的pyinputplus可以安裝,簡化try/excep
 [pypi](https://pypi.org/)
 [Python自動化指南pyinputplus說明](https://cloud.tencent.com/developer/article/2257365)
