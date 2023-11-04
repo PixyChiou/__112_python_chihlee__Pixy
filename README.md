@@ -32,3 +32,5 @@ https://docs.python.org/zh-tw/3/library/functions.html#round
 ## [docker desktop](https://www.docker.com/products/docker-desktop/) 在自己電腦建立linux,就不用在雲端上使用
 
 ##[steam學習網](https://steam.oxxostudio.tw/category/python/basic/loop.html)
+
+##[pandas.DataFrame說明書](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html)
