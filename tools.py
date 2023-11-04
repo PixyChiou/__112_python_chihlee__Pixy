@@ -34,3 +34,6 @@ class Student():
         self.math = math
     def sum(self)->int:
         return self.chinese + self.english + self.math
+    
+def getStudent(name:str,chinese:int,math:int,english:int)->Student:
+    return Student(name=name,chinese=chinese,english=english,math=math)
