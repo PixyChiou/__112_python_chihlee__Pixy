@@ -38,3 +38,5 @@ https://hackmd.io/@eMP9zQQ0Qt6I8Uqp2Vqy6w/SyiOheL5N/%2FBVqowKshRH246Q7UDyodFA?ty
 
 ### python內建函數
 https://docs.python.org/zh-tw/3/library/functions.html#round
+
+### [初見pandas](https://github.com/roberthsu2003/PythonForDataAnalysis/blob/master/%E5%88%9D%E8%A6%8Bpandas/README.ipynb)
