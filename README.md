@@ -21,6 +21,7 @@ https://meet.google.com/bio-hmps-bpr
 ## 2023_11_4
 [錄影1上午](https://www.youtube.com/watch?v=FNED5Xou-HU)  
 [物件和類別](https://github.com/roberthsu2003/python/tree/master/%E7%89%A9%E4%BB%B6%E5%92%8C%E9%A1%9E%E5%88%A5)  
+[python教學-初見class](https://docs.python.org/zh-tw/3/tutorial/classes.html#a-first-look-at-classes)
 [錄影1下午](https://www.youtube.com/watch?v=6bIXI2lhDu0)
 
 ### 免費的module  其中的pyinputplus可以安裝,簡化try/excep
@@ -41,5 +42,6 @@ https://docs.python.org/zh-tw/3/library/functions.html#round
 
 ### python教學
 https://docs.python.org/zh-tw/3/tutorial/index.html#tutorial-index
+
 
 ### [初見pandas](https://github.com/roberthsu2003/PythonForDataAnalysis/blob/master/%E5%88%9D%E8%A6%8Bpandas/README.ipynb)
