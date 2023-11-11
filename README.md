@@ -24,6 +24,10 @@ https://meet.google.com/bio-hmps-bpr
 [python教學-初見class](https://docs.python.org/zh-tw/3/tutorial/classes.html#a-first-look-at-classes)
 [錄影1下午](https://www.youtube.com/watch?v=6bIXI2lhDu0)
 
+## 2023_11_11
+[錄影1上午](https://www.youtube.com/watch?v=zcbPtg75KcE)
+[錄影1下午](https://www.youtube.com/watch?v=z5NiuQoStRc)
+
 ### 免費的module  其中的pyinputplus可以安裝,簡化try/excep
 [pypi](https://pypi.org/)
 [Python自動化指南pyinputplus說明](https://cloud.tencent.com/developer/article/2257365)
