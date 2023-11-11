@@ -27,6 +27,7 @@ https://meet.google.com/bio-hmps-bpr
 ## 2023_11_11
 [錄影1上午](https://www.youtube.com/watch?v=zcbPtg75KcE)
 [錄影1下午](https://www.youtube.com/watch?v=z5NiuQoStRc)
+[下載csv](https://github.com/roberthsu2003/python/tree/master/%E6%AA%94%E6%A1%88%E5%AD%98%E5%8F%96)
 
 ### 免費的module  其中的pyinputplus可以安裝,簡化try/excep
 [pypi](https://pypi.org/)
