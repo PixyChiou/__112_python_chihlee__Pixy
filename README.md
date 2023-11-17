@@ -14,7 +14,7 @@ https://meet.google.com/bio-hmps-bpr
 [目錄](https://github.com/roberthsu2003/python/tree/master/%E6%A2%9D%E4%BB%B6%E5%88%86%E6%9E%90)
 
 ## 2023_10_28
-[錄影1上午](https://www.youtube.com/watch?v=OmaI3Lk14xs)
+[錄影1上午](https://www.youtube.com/watch?v=OmaI3Lk14xs)  
 [錄影2下午](https://www.youtube.com/watch?v=bPO4ogiVKmE)  
 [for自訂的變數in sequence](https://docs.python.org/zh-tw/3/library/stdtypes.html#range)
 
