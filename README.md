@@ -30,7 +30,8 @@ https://meet.google.com/bio-hmps-bpr
 [錄影1下午](https://www.youtube.com/watch?v=z5NiuQoStRc)  
 [下載csv](https://github.com/roberthsu2003/python/tree/master/%E6%AA%94%E6%A1%88%E5%AD%98%E5%8F%96)  
 [pandas說明書](https://pandas.pydata.org/docs/reference/index.html#api)  
-[Python函式基礎，什麼是函式？什麼是回傳值 return？](https://alvis.tw/blog/python-function/)
+[Python函式基礎，什麼是函式？什麼是回傳值 return？](https://alvis.tw/blog/python-function/)  
+[CSV 檔案操作](https://steam.oxxostudio.tw/category/python/library/csv.html)
 
 ### 免費的module  其中的pyinputplus可以安裝,簡化try/excep
 [pypi](https://pypi.org/)  
