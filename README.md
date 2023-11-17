@@ -20,18 +20,20 @@ https://meet.google.com/bio-hmps-bpr
 
 ## 2023_11_4
 [錄影1上午](https://www.youtube.com/watch?v=FNED5Xou-HU)  
-[物件和類別](https://github.com/roberthsu2003/python/tree/master/%E7%89%A9%E4%BB%B6%E5%92%8C%E9%A1%9E%E5%88%A5)  
-[python教學-初見class](https://docs.python.org/zh-tw/3/tutorial/classes.html#a-first-look-at-classes)
+[物件和類別](https://github.com/roberthsu2003/python/tree/master/ 
+ %E7%89%A9%E4%BB%B6%E5%92%8C%E9%A1%9E%E5%88%A5)  
+[python教學-初見class](https://docs.python.org/zh-tw/3/tutorial/classes.html#a-first-look-at-classes)  
 [錄影1下午](https://www.youtube.com/watch?v=6bIXI2lhDu0)
 
 ## 2023_11_11
 [錄影1上午](https://www.youtube.com/watch?v=zcbPtg75KcE)
-[錄影1下午](https://www.youtube.com/watch?v=z5NiuQoStRc)
-[下載csv](https://github.com/roberthsu2003/python/tree/master/%E6%AA%94%E6%A1%88%E5%AD%98%E5%8F%96)
-[pandas說明書](https://pandas.pydata.org/docs/reference/index.html#api)
+[錄影1下午](https://www.youtube.com/watch?v=z5NiuQoStRc)  
+[下載csv](https://github.com/roberthsu2003/python/tree/master/%E6%AA%94%E6%A1%88%E5%AD%98%E5%8F%96)  
+[pandas說明書](https://pandas.pydata.org/docs/reference/index.html#api)  
+[Python函式基礎，什麼是函式？什麼是回傳值 return？](https://alvis.tw/blog/python-function/)
 
 ### 免費的module  其中的pyinputplus可以安裝,簡化try/excep
-[pypi](https://pypi.org/)
+[pypi](https://pypi.org/)  
 [Python自動化指南pyinputplus說明](https://cloud.tencent.com/developer/article/2257365)
 
 ### [docker desktop](https://www.docker.com/products/docker-desktop/) 在自己電腦建立linux,就不用在雲端上使用
