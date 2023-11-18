@@ -54,3 +54,5 @@ https://docs.python.org/zh-tw/3/tutorial/index.html#tutorial-index
 
 
 ### [初見pandas](https://github.com/roberthsu2003/PythonForDataAnalysis/blob/master/%E5%88%9D%E8%A6%8Bpandas/README.ipynb)
+
+###[菜鳥教程](https://www.runoob.com/python/python-files-io.html)
