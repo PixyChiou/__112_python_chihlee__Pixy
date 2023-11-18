@@ -36,7 +36,7 @@ https://meet.google.com/bio-hmps-bpr
 ## 2023_11_18
 [錄影上午](https://www.youtube.com/watch?v=-K0lWABQmG4)  
 
-
+[fake_useragent](https://pypi.org/project/fake-useragent/)
 
 ### 免費的module  其中的pyinputplus可以安裝,簡化try/excep
 [pypi](https://pypi.org/)  
