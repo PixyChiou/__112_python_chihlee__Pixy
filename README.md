@@ -37,7 +37,7 @@ https://meet.google.com/bio-hmps-bpr
 [錄影上午](https://www.youtube.com/watch?v=-K0lWABQmG4)  
 [錄影下午](https://www.youtube.com/watch?v=moTldRcI0ao)
 [SQLAlchemy](https://pypi.org/project/SQLAlchemy/)
-[render server](https://dashboard.render.com/)
+[render server](https://dashboard.render.com/) postgreSQL是免費的
 
 [fake_useragent](https://pypi.org/project/fake-useragent/)
 
