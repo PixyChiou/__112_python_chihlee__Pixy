@@ -33,6 +33,11 @@ https://meet.google.com/bio-hmps-bpr
 [Python函式基礎，什麼是函式？什麼是回傳值 return？](https://alvis.tw/blog/python-function/)  
 [CSV 檔案操作](https://steam.oxxostudio.tw/category/python/library/csv.html)
 
+## 2023_11_18
+[錄影上午](https://www.youtube.com/watch?v=-K0lWABQmG4)  
+
+
+
 ### 免費的module  其中的pyinputplus可以安裝,簡化try/excep
 [pypi](https://pypi.org/)  
 [Python自動化指南pyinputplus說明](https://cloud.tencent.com/developer/article/2257365)
