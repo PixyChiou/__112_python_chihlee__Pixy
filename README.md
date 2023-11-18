@@ -35,6 +35,8 @@ https://meet.google.com/bio-hmps-bpr
 
 ## 2023_11_18
 [錄影上午](https://www.youtube.com/watch?v=-K0lWABQmG4)  
+[錄影下午](https://www.youtube.com/watch?v=moTldRcI0ao)
+[SQLAlchemy](https://pypi.org/project/SQLAlchemy/)
 
 [fake_useragent](https://pypi.org/project/fake-useragent/)
 
