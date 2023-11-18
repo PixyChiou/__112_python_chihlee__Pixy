@@ -38,7 +38,7 @@ https://meet.google.com/bio-hmps-bpr
 [錄影下午](https://www.youtube.com/watch?v=moTldRcI0ao)
 [SQLAlchemy](https://pypi.org/project/SQLAlchemy/)
 [render server](https://dashboard.render.com/) postgreSQL是免費的 February 16, 2024會將資料刪除  
-[pgAdmin 4](https://www.postgresql.org/ftp/pgadmin/pgadmin4/v7.8/windows/)
+[pgAdmin 4](https://www.pgadmin.org/download/pgadmin-4-windows/)
 
 [fake_useragent](https://pypi.org/project/fake-useragent/)
 
