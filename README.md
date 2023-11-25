@@ -46,6 +46,7 @@ https://meet.google.com/bio-hmps-bpr
 [錄影下午](https://www.youtube.com/watch?v=vNmORGaGJcg)  
 [NamPy = np](https://github.com/roberthsu2003/PythonForDataAnalysis/blob/master/Numpy%E5%BB%BA%E7%AB%8B%E8%88%87%E8%A8%88%E7%AE%97/README.ipynb)
 [日本配色](https://nipponcolors.com/#wakatake)
+[python excel的運用](https://github.com/roberthsu2003/python/tree/master/%E8%99%95%E7%90%86excel)
 
 
 ### 免費的module  其中的pyinputplus可以安裝,簡化try/excep
