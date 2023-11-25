@@ -43,7 +43,7 @@ https://meet.google.com/bio-hmps-bpr
 
 ## 2023_11_25
 [錄影上午](https://www.youtube.com/watch?v=vfnO7daQFgw)  
-[錄影下午]()  
+[錄影下午](https://www.youtube.com/watch?v=vNmORGaGJcg)  
 [NamPy = np](https://github.com/roberthsu2003/PythonForDataAnalysis/blob/master/Numpy%E5%BB%BA%E7%AB%8B%E8%88%87%E8%A8%88%E7%AE%97/README.ipynb)
 
 
