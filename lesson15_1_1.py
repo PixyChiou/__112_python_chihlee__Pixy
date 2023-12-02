@@ -5,15 +5,14 @@ import pyinputplus as pyip
 from pandas.io.formats.excel import ExcelFormatter
 from pandas.io.excel._base import ExcelWriter
 
-def generate_class_scores(num_classes:int,file_name:str) ->None:
-    #下面'''上下包圍的寫法為此函數的說明
+def generate_class_scores(num_classes:int,file_name:str) -> None:
     '''
     param:num_classes,是班級數量
     param:file_name,自訂檔名,使用者要輸入副檔名xlsx
 
     1.建立新檔
     2.已經有新檔則覆蓋原來的檔案
-    '''  
+    '''
     # 創建一個空的 Excel 工作簿
     wb = Workbook()
     
@@ -36,7 +35,6 @@ def generate_class_scores(num_classes:int,file_name:str) ->None:
 
             # 格式化和高亮
             pdstyle = scores_df.style \
-                .format(precision=2) \
                 .highlight_between(left=0, right=59, props='color:white; background-color:#CB1B45;') \
                 .highlight_max(axis=1, subset=scores_df.columns[:5], props='color:white; background-color:#2B5F75')
 
@@ -45,10 +43,8 @@ def generate_class_scores(num_classes:int,file_name:str) ->None:
             pdstyle.to_excel(writer, sheet_name=sheet_name, index=False, engine='openpyxl')
 
 # 輸入班級數量
-if __name__ == '__main__':
-    num_classes = pyip.inputInt("請輸入班級數量:(1~5):")
-    print(num_classes)
-    file_name = pyip.inputFilename('請輸入存檔名稱(xlsx):')
-    print(file_name)
+if __name__ == "__main__":
+    num_classes = pyip.inputInt("請輸入班級數量(1~5):")     
+    file_name = pyip.inputFilename("請輸入存檔名稱(xlsx):")
     generate_class_scores(num_classes,file_name)
-    print(f'{file_name}已經產生')
+    print(f"{file_name}已經產生")
