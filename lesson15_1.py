@@ -6,11 +6,18 @@ from pandas.io.formats.excel import ExcelFormatter
 from pandas.io.excel._base import ExcelWriter
 
 def generate_class_scores(num_classes:int,file_name:str) ->None:
+    '''
+    param:num_classes,是班級數量
+    param:file_name,自訂檔名,使用者要輸入副檔名xlsx
+
+    1.建立新檔
+    2.已經有新檔則覆蓋原來的檔案
+    '''  
     # 創建一個空的 Excel 工作簿
     wb = Workbook()
     
     # 將 Excel 工作簿保存為一個文件
-    excel_path = '天龍國小.xlsx'
+    excel_path = file_name
 
     with ExcelWriter(excel_path, engine='openpyxl') as writer:
         for i in range(1, num_classes + 1):
@@ -44,3 +51,4 @@ if __name__ == '__main__':
     print(file_name)
     generate_class_scores(num_classes,file_name)
     print(f'{file_name}已經產生')
+
