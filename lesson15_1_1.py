@@ -4,7 +4,7 @@ from openpyxl import Workbook,load_workbook
 import pyinputplus as pyip
 from pandas.io.formats.excel import ExcelFormatter
 from pandas.io.excel._base import ExcelWriter
-import os
+import os,sys #sys是最後那個簡化要加的
 
 def generate_class_scores(num_classes:int,file_name:str) -> None:
     '''
