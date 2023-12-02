@@ -82,17 +82,31 @@ def generate_and_add_class_scores(add_classes:int, file_name:str) -> None:
 
 
 # 輸入班級數量
+#if __name__ == "__main__":
+#    num_classes = pyip.inputInt("請輸入班級數量(1~5):",min=1,max=5)     
+#    file_name = pyip.inputFilename("請輸入存檔名稱(xlsx):")
+#    if os.path.exists(file_name):
+#        is_covert = pyip.inputYesNo('請問需要覆蓋嗎(y.n)?',default='yes',blank=True)
+#        if is_covert == 'yes':
+#            generate_class_scores(num_classes,file_name)
+#            print(f'{file_name}已經建立')
+#        else:
+#            generate_and_add_class_scores(num_classes,file_name)
+#            print(f'{file_name}已經新增')
+#    else:
+#        generate_class_scores(num_classes,file_name)
+#        print(f"{file_name}已經產生")
+
+# 輸入班級數量  跟上面比,這個更簡化
 if __name__ == "__main__":
     num_classes = pyip.inputInt("請輸入班級數量(1~5):",min=1,max=5)     
     file_name = pyip.inputFilename("請輸入存檔名稱(xlsx):")
     if os.path.exists(file_name):
-        is_covert = pyip.inputYesNo('請問需要覆蓋嗎(y.n)?',default='yes',blank=True)
-        if is_covert == 'yes':
-            generate_class_scores(num_classes,file_name)
-            print(f'{file_name}已經建立')
-        else:
+        is_covert = pyip.inputYesNo("請問需要覆蓋嗎(y,n)?",default="yes",blank=True)
+        if is_covert == "no":
             generate_and_add_class_scores(num_classes,file_name)
-            print(f'{file_name}已經新增')
-    else:
-        generate_class_scores(num_classes,file_name)
-        print(f"{file_name}已經產生")
+            print(f"{file_name}已經新增")
+            sys.exit()
+    
+    generate_class_scores(num_classes,file_name)
+    print(f"{file_name}已經建立")
