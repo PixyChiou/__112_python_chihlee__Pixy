@@ -49,6 +49,11 @@ https://meet.google.com/bio-hmps-bpr
 [python excel的運用](https://github.com/roberthsu2003/python/tree/master/%E8%99%95%E7%90%86excel)
 
 
+## 2023_12_2
+[錄影上午](https://www.youtube.com/watch?v=rKAcwxJmSIU)  
+[錄影下午]()  
+
+
 ### 免費的module  其中的pyinputplus可以安裝,簡化try/excep
 [pypi](https://pypi.org/)  
 [Python自動化指南pyinputplus說明](https://cloud.tencent.com/developer/article/2257365)

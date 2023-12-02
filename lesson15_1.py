@@ -6,6 +6,7 @@ from pandas.io.formats.excel import ExcelFormatter
 from pandas.io.excel._base import ExcelWriter
 
 def generate_class_scores(num_classes:int,file_name:str) ->None:
+    #下面'''上下包圍的寫法為此函數的說明
     '''
     param:num_classes,是班級數量
     param:file_name,自訂檔名,使用者要輸入副檔名xlsx
