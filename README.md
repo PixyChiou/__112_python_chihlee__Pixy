@@ -54,6 +54,12 @@ https://meet.google.com/bio-hmps-bpr
 [錄影下午](https://www.youtube.com/watch?v=jRkzL2OCDh8)  
 [系統和時間](https://github.com/roberthsu2003/python/tree/master/%E7%B3%BB%E7%B5%B1%E5%92%8C%E6%99%82%E9%96%93)
 
+## 2023_12_9
+[錄影上午](https://www.youtube.com/watch?v=uX8mXukQTV4)  
+[錄影下午]()  
+
+
+
 ### 免費的module  其中的pyinputplus可以安裝,簡化try/excep
 [pypi](https://pypi.org/)  
 [Python自動化指南pyinputplus說明](https://cloud.tencent.com/developer/article/2257365)
