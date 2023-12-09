@@ -56,7 +56,9 @@ https://meet.google.com/bio-hmps-bpr
 
 ## 2023_12_9
 [錄影上午](https://www.youtube.com/watch?v=uX8mXukQTV4)  
-[錄影下午]()  
+[錄影下午](https://www.youtube.com/watch?v=tMKWAQEThIk)  
+[爬蟲](https://github.com/roberthsu2003/pythonscraping)  
+[動態爬蟲](https://github.com/roberthsu2003/pythonScraping/tree/master/%E5%8B%95%E6%85%8B%E7%B6%B2%E9%A0%81%E7%88%AC%E8%9F%B2)
 
 
 
